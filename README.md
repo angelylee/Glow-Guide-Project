@@ -18,3 +18,6 @@ This was a group project aimed at demonstrating project management and planning 
 <li> Tasks #1-7 compiled into a Portfolio </li>
 <li> Figma User Interfaces </li>
 </ul>
+
+Link to Figma designs: <a href="https://www.figma.com/design/PzdhNXPESNZHfRygCtXvvT/Glow-Guide-Scanner?node-id=0-1&t=EEJoN5AU3EQ5Jf22-1" target="_blank" rel="noopener noreferrer">here</a>
+
